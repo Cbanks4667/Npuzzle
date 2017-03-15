@@ -1,0 +1,12 @@
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment3\CbanksAssignment3\CbanksAssignment3\bin\Debug\CbanksAssignment3.exe.config
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment3\CbanksAssignment3\CbanksAssignment3\bin\Debug\CbanksAssignment3.exe
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment3\CbanksAssignment3\CbanksAssignment3\bin\Debug\CbanksAssignment3.pdb
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment3\CbanksAssignment3\CbanksAssignment3\obj\Debug\CbanksAssignment3.csprojResolveAssemblyReference.cache
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment3\CbanksAssignment3\CbanksAssignment3\obj\Debug\CbanksAssignment3.PuzzleForm.resources
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment3\CbanksAssignment3\CbanksAssignment3\obj\Debug\CbanksAssignment3.Properties.Resources.resources
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment3\CbanksAssignment3\CbanksAssignment3\obj\Debug\CbanksAssignment3.csproj.GenerateResource.Cache
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment3\CbanksAssignment3\CbanksAssignment3\obj\Debug\CbanksAssignment3.exe
+C:\Users\guywi\Documents\Semester 3\PROG2370-OOP\Assignments\Assignment3\CbanksAssignment3\CbanksAssignment3\obj\Debug\CbanksAssignment3.pdb
+C:\Users\guywi\Desktop\Semester 3\PROG2370-OOP\Assignments\Assignment3\CbanksAssignment3\CbanksAssignment3\bin\Debug\CbanksAssignment3.exe.config
+C:\Users\guywi\Desktop\Semester 3\PROG2370-OOP\Assignments\Assignment3\CbanksAssignment3\CbanksAssignment3\obj\Debug\CbanksAssignment3.exe
+C:\Users\guywi\Desktop\Semester 3\PROG2370-OOP\Assignments\Assignment3\CbanksAssignment3\CbanksAssignment3\obj\Debug\CbanksAssignment3.pdb
